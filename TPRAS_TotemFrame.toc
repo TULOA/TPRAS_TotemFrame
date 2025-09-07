@@ -1,0 +1,8 @@
+## Interface: 50500
+## Title: TPRAS TotemFrame
+## Notes: Custom totem housing frame for Earth, Fire, Water, and Air. Movable with saved scale options.
+## Author: TULOA
+## Version: 1.1
+## SavedVariablesPerCharacter: TPRAS_TotemFrameDB
+
+TPRAS_TotemFrame.lua
